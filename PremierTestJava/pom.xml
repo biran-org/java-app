@@ -53,6 +53,8 @@
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
+        <sonar.organization>biran-org</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 </project>
